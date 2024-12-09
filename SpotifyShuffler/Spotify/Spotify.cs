@@ -19,7 +19,7 @@ namespace SpotifyShuffler.Spotify
 
 
 
-        readonly static string clientID = "ce61404266af4eaa8654aec278a45397";
+        readonly static string clientID = "\";
         static SpotifyClientConfig config;
         static EmbedIOAuthServer _server;
         public static SpotifyClient Client;
